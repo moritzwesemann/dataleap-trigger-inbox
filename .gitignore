@@ -1,0 +1,3 @@
+.pgdata/
+/bin/
+results/*.log
